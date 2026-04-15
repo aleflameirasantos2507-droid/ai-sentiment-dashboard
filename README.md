@@ -33,3 +33,5 @@ streamlit run app.py
 ## Author
 
 Alef Santos
+
+<img width="1826" height="900" alt="image" src="https://github.com/user-attachments/assets/4ad5786a-db23-403b-a16b-5d83f047ab24" />
